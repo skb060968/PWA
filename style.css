@@ -1,0 +1,305 @@
+/* =========================
+   Learn English - Final PWA Style
+   ========================= */
+
+/* 🎨 Color Variables */
+:root {
+  --primary: #0078D4;
+  --secondary: #C6E8C6;
+  --text-dark: #222;
+  --text-light: #fff;
+  --accent: #D40078;
+  --bg-light: linear-gradient(to right, #e0f7fa, #8fefef);
+  --bg-dark: linear-gradient(to right, #1e1e1e, #2c2c2c);
+  --progress-width: 0%;
+}
+
+/* 🌈 Base Layout */
+body {
+  margin: 0;
+  background: var(--bg-light);
+  background-size: 200% 200%;
+  animation: gradientFlow 12s ease infinite;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  color: var(--text-dark);
+  transition: background 0.5s ease, color 0.3s ease;
+}
+
+body.dark {
+  background: var(--bg-dark);
+  color: var(--text-light);
+}
+
+/* 🌗 Theme Toggle */
+#theme-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+}
+
+#theme-icon {
+  font-size: 1.5em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+/* 🚀 Splash Screen */
+#splash-screen {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--bg-light);
+  background-size: 200% 200%;
+  animation: gradientFlow 12s ease infinite;
+  color: var(--text-dark);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  z-index: 999;
+  text-align: center;
+}
+body.dark #splash-screen {
+  background: var(--bg-dark);
+  color: var(--text-light);
+}
+
+/* 💫 Animations */
+@keyframes rotateOut {
+  0% { opacity: 1; transform: rotateY(0deg); }
+  100% { opacity: 0; transform: rotateY(90deg); }
+}
+@keyframes rotateIn {
+  0% { opacity: 0; transform: rotateY(-90deg); }
+  100% { opacity: 1; transform: rotateY(0deg); }
+}
+.rotate-out { animation: rotateOut 0.6s ease forwards; }
+.rotate-in { animation: rotateIn 0.8s ease forwards; }
+
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 📱 Main Screens */
+#welcome-screen,
+#phrase-screen,
+#celebration {
+  background-color: var(--secondary);
+  padding: 2em;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  width: 95%;
+  max-width: 900px;
+  text-align: center;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-height: 90vh;
+  overflow-y: auto;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+#welcome-screen:hover,
+#phrase-screen:hover,
+#celebration:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.25);
+}
+
+/* 🌙 Dark Mode */
+body.dark #welcome-screen,
+body.dark #phrase-screen,
+body.dark #celebration {
+  background-color: #333;
+  color: var(--text-light);
+}
+body.dark input[type="text"] {
+  background: #222;
+  color: white;
+  border: 1px solid #555;
+}
+body.dark .spinner {
+  border-color: #555;
+  border-top-color: var(--primary);
+}
+body.dark .controls button,
+body.dark #celebration button {
+  background-color: #1e88e5;
+  color: white;
+}
+
+/* 🧠 Headings & Labels */
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: var(--primary);
+  margin-bottom: 1em;
+}
+label, h3 {
+  font-weight: 600;
+  color: #444;
+}
+h3 {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+/* ✏️ Input Field */
+input[type="text"] {
+  padding: 0.4em;
+  font-size: 1.6em;
+  width: clamp(150px, 40%, 300px);
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+/* 🔘 Difficulty Buttons */
+.difficulty-buttons button {
+  margin: 0.3em;
+  padding: 0.6em 1.2em;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  color: white;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.difficulty-buttons button:nth-child(1) { background-color: #4CAF50; }
+.difficulty-buttons button:nth-child(2) { background-color: #FFC107; color: #222; }
+.difficulty-buttons button:nth-child(3) { background-color: #F44336; }
+.difficulty-buttons button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+/* 💬 Phrase Display */
+#hinglish-phrase {
+  font-size: 4.5em;
+  font-weight: bold;
+  color: var(--primary);
+  margin: 1em 0;
+  word-wrap: break-word;
+}
+#english-translation {
+  font-size: 3.5em;
+  font-weight: bold;
+  color: var(--accent);
+  margin: 1em 0;
+  min-height: 1.5em;
+  transition: opacity 0.3s ease;
+  word-wrap: break-word;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+@keyframes flipPhrase {
+  0% { opacity: 0; transform: rotateY(90deg); }
+  100% { opacity: 1; transform: rotateY(0deg); }
+}
+.phrase-flip {
+  animation: flipPhrase 0.6s ease-out forwards;
+}
+
+/* 🧭 Controls */
+.controls button,
+#celebration button {
+  margin: 0.3em;
+  padding: 0.8em 1.6em;
+  font-size: 1.2em;
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+.controls button:hover,
+#celebration button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+.controls button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* ⏳ Loader Spinner */
+.spinner {
+  margin: 20px auto;
+  width: 40px;
+  height: 40px;
+  border: 4px solid #ccc;
+  border-top: 4px solid var(--primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* 🎉 Celebration */
+#celebration h2 { font-size: 2em; color: #2e7d32; }
+#celebration p { font-size: 1.2em; color: #444; margin-bottom: 1em; }
+
+/* 📊 Progress Text + Bar */
+#progress-container {
+  width: 90%;
+  max-width: 500px;
+  margin: 1.2em auto;
+  text-align: center;
+}
+#progress-text {
+  font-size: 1.1em;
+  margin-bottom: 0.4em;
+  color: var(--text-dark);
+}
+body.dark #progress-text {
+  color: var(--text-light);
+}
+#progress-bar {
+  height: 14px;
+  background: #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+}
+#progress-bar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: var(--progress-width, 0%);
+  background: var(--primary);
+  transition: width 0.4s ease;
+  border-radius: 8px;
+}
+
+/* 📱 Responsive */
+@media (max-width: 480px) {
+  h2, h3 { font-size: clamp(1.4em, 4vw, 1.8em); }
+  #hinglish-phrase { font-size: clamp(2em, 8vw, 3em); }
+  #english-translation { font-size: clamp(1.8em, 7vw, 2.5em); }
+  input[type="text"], button { font-size: 1em; width: 90%; }
+  #welcome-screen, #phrase-screen, #celebration { padding: 1em; }
+}

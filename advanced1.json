@@ -1,0 +1,554 @@
+{
+  "categories": [
+    {
+      "name": "Greetings & Introductions",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "How are you today?",
+          "answer": "I’m doing well, thank you! How about you?"
+        },
+        {
+          "type": "qa-english",
+          "english": "Nice to meet you!",
+          "answer": "Nice to meet you too!"
+        },
+        {
+          "type": "qa-english",
+          "english": "How’s it going?",
+          "answer": "Pretty good, just keeping busy."
+        },
+        {
+          "type": "qa-english",
+          "english": "Where are you from?",
+          "answer": "I’m from India, but I live abroad now."
+        },
+        {
+          "type": "qa-english",
+          "english": "How long have you been here?",
+          "answer": "I’ve been here for about two years."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you do for a living?",
+          "answer": "I work as a teacher."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you come here often?",
+          "answer": "Yes, I like to visit this place on weekends."
+        },
+        {
+          "type": "qa-english",
+          "english": "It’s great to see you again!",
+          "answer": "Yes, it’s been a while since we last met."
+        },
+        {
+          "type": "qa-english",
+          "english": "Have we met before?",
+          "answer": "I think so, maybe at a friend’s party."
+        },
+        {
+          "type": "qa-english",
+          "english": "Take care and have a good day!",
+          "answer": "Thanks! You too, see you soon."
+        }
+      ]
+    },
+    {
+      "name": "Daily Routine",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What time do you wake up?",
+          "answer": "I usually wake up around 7 AM."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you have breakfast at home?",
+          "answer": "Yes, I prefer a light breakfast at home."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you get to work?",
+          "answer": "I usually take the bus."
+        },
+        {
+          "type": "qa-english",
+          "english": "What time do you start work?",
+          "answer": "I start at 9 in the morning."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you take a lunch break?",
+          "answer": "Yes, I usually have lunch around 1 PM."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you do after work?",
+          "answer": "I go for a walk or sometimes watch a show."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you cook dinner yourself?",
+          "answer": "Yes, I enjoy cooking simple meals."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you relax in the evening?",
+          "answer": "I listen to music or read a book."
+        },
+        {
+          "type": "qa-english",
+          "english": "When do you go to bed?",
+          "answer": "Usually around 10 or 11 PM."
+        },
+        {
+          "type": "qa-english",
+          "english": "Don’t forget to drink water!",
+          "answer": "Yes, I’ll keep a bottle with me."
+        }
+      ]
+    },
+    {
+      "name": "Work & Study",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What kind of work do you do?",
+          "answer": "I work in marketing."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like your job?",
+          "answer": "Yes, I find it interesting and challenging."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you stay organized?",
+          "answer": "I use a planner and make daily to-do lists."
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you studying anything new?",
+          "answer": "Yes, I’m learning Spanish online."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you work from home?",
+          "answer": "Yes, three days a week."
+        },
+        {
+          "type": "qa-english",
+          "english": "That was a great idea!",
+          "answer": "Thanks! I thought it might work well."
+        },
+        {
+          "type": "qa-english",
+          "english": "Can you help me with this?",
+          "answer": "Of course, show me what you need."
+        },
+        {
+          "type": "qa-english",
+          "english": "I’m a bit tired of meetings today.",
+          "answer": "I know, they can be exhausting sometimes."
+        },
+        {
+          "type": "qa-english",
+          "english": "Let’s finish this by Friday!",
+          "answer": "Sure, that sounds like a good plan."
+        },
+        {
+          "type": "qa-english",
+          "english": "Keep up the good work!",
+          "answer": "Thank you! I appreciate the motivation."
+        }
+      ]
+    },
+    {
+      "name": "Travel & Directions",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "Where are you planning to go this weekend?",
+          "answer": "I might visit the beach with some friends."
+        },
+        {
+          "type": "qa-english",
+          "english": "Have you ever been abroad?",
+          "answer": "Yes, I went to Thailand last year."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do I get to the nearest station?",
+          "answer": "Go straight and turn right at the traffic light."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like traveling by train?",
+          "answer": "Yes, it’s comfortable and scenic."
+        },
+        {
+          "type": "qa-english",
+          "english": "How was your last vacation?",
+          "answer": "It was amazing! I went hiking in the hills."
+        },
+        {
+          "type": "qa-english",
+          "english": "Don’t forget your passport!",
+          "answer": "Thanks for reminding me!"
+        },
+        {
+          "type": "qa-english",
+          "english": "How long is the flight?",
+          "answer": "About five hours from here."
+        },
+        {
+          "type": "qa-english",
+          "english": "Is this the right way to the museum?",
+          "answer": "Yes, just keep walking for five more minutes."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy road trips?",
+          "answer": "Yes, I love long drives and good music."
+        },
+        {
+          "type": "qa-english",
+          "english": "The view here is stunning!",
+          "answer": "It really is! I could stay here all day."
+        }
+      ]
+    },
+    {
+      "name": "Food & Dining",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What’s your favorite food?",
+          "answer": "I really love pasta."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like spicy dishes?",
+          "answer": "A little spice is fine, but not too much."
+        },
+        {
+          "type": "qa-english",
+          "english": "This tastes delicious!",
+          "answer": "I agree! The chef did a great job."
+        },
+        {
+          "type": "qa-english",
+          "english": "Would you like something to drink?",
+          "answer": "Yes, a glass of water please."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer tea or coffee?",
+          "answer": "I usually drink coffee in the morning."
+        },
+        {
+          "type": "qa-english",
+          "english": "Can we get the bill, please?",
+          "answer": "Sure, I’ll bring it right away."
+        },
+        {
+          "type": "qa-english",
+          "english": "Don’t eat too fast!",
+          "answer": "I know, I’m just really hungry."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you cook often?",
+          "answer": "Yes, I try to cook at least four times a week."
+        },
+        {
+          "type": "qa-english",
+          "english": "The restaurant is quite busy tonight!",
+          "answer": "Yes, it must be the weekend crowd."
+        },
+        {
+          "type": "qa-english",
+          "english": "I’m full already!",
+          "answer": "Me too, that was a lot of food."
+        }
+      ]
+    },
+    {
+      "name": "Shopping & Money",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "How much does this cost?",
+          "answer": "It’s about thirty dollars."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you accept credit cards?",
+          "answer": "Yes, we accept all major cards."
+        },
+        {
+          "type": "qa-english",
+          "english": "Is there a discount on this item?",
+          "answer": "Yes, it’s 20% off today."
+        },
+        {
+          "type": "qa-english",
+          "english": "I like this color!",
+          "answer": "Yes, it looks great on you."
+        },
+        {
+          "type": "qa-english",
+          "english": "Where is the checkout counter?",
+          "answer": "It’s right next to the entrance."
+        },
+        {
+          "type": "qa-english",
+          "english": "Can I try this on?",
+          "answer": "Of course, the fitting room is over there."
+        },
+        {
+          "type": "qa-english",
+          "english": "This looks expensive!",
+          "answer": "It’s high quality, so it’s worth the price."
+        },
+        {
+          "type": "qa-english",
+          "english": "I’ll pay in cash.",
+          "answer": "Alright, please hand it to the cashier."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you need a bag?",
+          "answer": "No, I have my own, thanks."
+        },
+        {
+          "type": "qa-english",
+          "english": "What a great deal!",
+          "answer": "Yes, I couldn’t resist buying it."
+        }
+      ]
+    },
+    {
+      "name": "Family & Relationships",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "Do you have any siblings?",
+          "answer": "Yes, I have one brother and one sister."
+        },
+        {
+          "type": "qa-english",
+          "english": "How often do you visit your parents?",
+          "answer": "I try to visit them once a month."
+        },
+        {
+          "type": "qa-english",
+          "english": "Your kids are so adorable!",
+          "answer": "Thank you! They’re growing up fast."
+        },
+        {
+          "type": "qa-english",
+          "english": "How long have you been married?",
+          "answer": "It’s been five wonderful years."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you live with your family?",
+          "answer": "Yes, we live together in a small apartment."
+        },
+        {
+          "type": "qa-english",
+          "english": "Your friend seems really nice!",
+          "answer": "Yes, we’ve known each other since college."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you have a pet?",
+          "answer": "Yes, I have a cat named Coco."
+        },
+        {
+          "type": "qa-english",
+          "english": "You must miss your family.",
+          "answer": "Yes, I do, especially during holidays."
+        },
+        {
+          "type": "qa-english",
+          "english": "That’s such a sweet gesture!",
+          "answer": "Thanks, I just wanted to help."
+        },
+        {
+          "type": "qa-english",
+          "english": "Family comes first!",
+          "answer": "Absolutely, nothing is more important."
+        }
+      ]
+    },
+    {
+      "name": "Health & Fitness",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "Do you exercise regularly?",
+          "answer": "Yes, I go jogging every morning."
+        },
+        {
+          "type": "qa-english",
+          "english": "How are you feeling today?",
+          "answer": "I’m feeling much better, thank you."
+        },
+        {
+          "type": "qa-english",
+          "english": "Don’t forget to stretch!",
+          "answer": "You’re right, it helps prevent stiffness."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you follow a diet plan?",
+          "answer": "Not really, I just try to eat healthy."
+        },
+        {
+          "type": "qa-english",
+          "english": "How often do you go to the gym?",
+          "answer": "About three times a week."
+        },
+        {
+          "type": "qa-english",
+          "english": "You look great!",
+          "answer": "Thank you! I’ve been working out recently."
+        },
+        {
+          "type": "qa-english",
+          "english": "Did you get enough sleep last night?",
+          "answer": "Not really, I stayed up a bit late."
+        },
+        {
+          "type": "qa-english",
+          "english": "Stay hydrated!",
+          "answer": "I will, thanks for the reminder."
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you feeling okay?",
+          "answer": "Yes, just a little tired from work."
+        },
+        {
+          "type": "qa-english",
+          "english": "Take a deep breath and relax!",
+          "answer": "Good advice, I’ll do that."
+        }
+      ]
+    },
+    {
+      "name": "Opinions & Feelings",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What do you think about this movie?",
+          "answer": "It was interesting but a bit too long."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you feel about the news?",
+          "answer": "Honestly, it was quite shocking."
+        },
+        {
+          "type": "qa-english",
+          "english": "I really like your idea!",
+          "answer": "Thanks! I appreciate your support."
+        },
+        {
+          "type": "qa-english",
+          "english": "You seem a bit down today.",
+          "answer": "Yeah, I’m just a little stressed out."
+        },
+        {
+          "type": "qa-english",
+          "english": "That was amazing!",
+          "answer": "I know, I can’t believe it happened!"
+        },
+        {
+          "type": "qa-english",
+          "english": "What makes you happy?",
+          "answer": "Spending time with good friends does."
+        },
+        {
+          "type": "qa-english",
+          "english": "I completely agree with you.",
+          "answer": "Glad to hear that! We think alike."
+        },
+        {
+          "type": "qa-english",
+          "english": "That’s so funny!",
+          "answer": "Haha, I couldn’t stop laughing either."
+        },
+        {
+          "type": "qa-english",
+          "english": "You did a great job!",
+          "answer": "Thank you! That means a lot."
+        },
+        {
+          "type": "qa-english",
+          "english": "I didn’t expect that!",
+          "answer": "Me neither! What a surprise."
+        }
+      ]
+    },
+    {
+      "name": "Plans & Future",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What are your plans for the weekend?",
+          "answer": "I might go hiking if the weather is nice."
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you doing anything tomorrow?",
+          "answer": "Not yet, I might just relax at home."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you have long-term goals?",
+          "answer": "Yes, I’d like to start my own business one day."
+        },
+        {
+          "type": "qa-english",
+          "english": "Where do you see yourself in five years?",
+          "answer": "Hopefully in a stable job that I enjoy."
+        },
+        {
+          "type": "qa-english",
+          "english": "Let’s catch up soon!",
+          "answer": "Sure, let’s plan something for next week."
+        },
+        {
+          "type": "qa-english",
+          "english": "Don’t worry, everything will be fine.",
+          "answer": "Thanks, I really needed to hear that."
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you free this evening?",
+          "answer": "Yes, after 7 PM I’ll be available."
+        },
+        {
+          "type": "qa-english",
+          "english": "I hope you achieve your dreams!",
+          "answer": "Thank you! I’ll do my best."
+        },
+        {
+          "type": "qa-english",
+          "english": "The future looks bright!",
+          "answer": "Yes, I feel positive about it."
+        },
+        {
+          "type": "qa-english",
+          "english": "Let’s make it happen!",
+          "answer": "Absolutely! I’m ready for it."
+        }
+      ]
+    }
+  ]
+}

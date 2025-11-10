@@ -1,0 +1,554 @@
+{
+  "categories": [
+    {
+      "name": "Greetings & Introductions",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आप कैसे हैं?",
+          "english": "I'm doing great, thanks for asking!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका नाम क्या है?",
+          "english": "My name is Sarah."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपसे मिलकर खुशी हुई।",
+          "english": "Nice to meet you too!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप कहाँ से हैं?",
+          "english": "I'm from Mumbai, but I live in Delhi now."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका दिन कैसा रहा?",
+          "english": "It’s been quite busy, but good overall."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप पहली बार यहाँ आए हैं?",
+          "english": "Yes, it’s my first time here."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप क्या करते हैं?",
+          "english": "I work as a marketing executive."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपकी उम्र क्या है?",
+          "english": "I’m in my late twenties."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप यहाँ कब से रह रहे हैं?",
+          "english": "I’ve been living here for about two years."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपसे फिर कब मिल सकते हैं?",
+          "english": "Let’s meet this weekend if you’re free!"
+        }
+      ]
+    },
+    {
+      "name": "Daily Routine & Habits",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आप सुबह कितने बजे उठते हैं?",
+          "english": "I usually wake up around six-thirty."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप हर दिन व्यायाम करते हैं?",
+          "english": "I try to exercise at least four times a week."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप नाश्ते में क्या लेते हैं?",
+          "english": "I usually have toast and coffee."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप ऑफिस कैसे जाते हैं?",
+          "english": "I take the metro to work every morning."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप देर रात तक जागते हैं?",
+          "english": "Not really, I prefer going to bed early."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका दिन आमतौर पर कैसा होता है?",
+          "english": "Pretty routine—work, gym, and some reading at night."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपके पास कितना खाली समय होता है?",
+          "english": "Not much during weekdays, but weekends are relaxed."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको कौन सी आदत पसंद नहीं है?",
+          "english": "I dislike procrastinating, but it happens sometimes."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप अपना दिन कैसे खत्म करते हैं?",
+          "english": "I usually unwind by watching a movie or reading a book."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको जल्दी उठना पसंद है?",
+          "english": "Yes, it makes my whole day feel more productive."
+        }
+      ]
+    },
+    {
+      "name": "Food & Dining",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको कौन सा खाना पसंद है?",
+          "english": "I love Italian food, especially pasta."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप चाय पीते हैं या कॉफी?",
+          "english": "Coffee, always! I can’t start my day without it."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप खाना खुद बनाते हैं?",
+          "english": "Yes, I enjoy cooking when I have time."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको मिठाई पसंद है?",
+          "english": "Yes, I have a serious sweet tooth!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप बाहर खाना पसंद करते हैं?",
+          "english": "Sometimes, especially on weekends."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको कौन सा फल सबसे ज्यादा पसंद है?",
+          "english": "I love mangoes—they’re so refreshing."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप शाकाहारी हैं?",
+          "english": "Mostly, yes. I prefer vegetarian meals."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको मसालेदार खाना पसंद है?",
+          "english": "I do, but only mildly spicy food."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका पसंदीदा रेस्तरां कौन सा है?",
+          "english": "There’s a cozy little café near my home I really like."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप आमतौर पर दोपहर का भोजन कहाँ करते हैं?",
+          "english": "Usually at the office cafeteria."
+        }
+      ]
+    },
+    {
+      "name": "Travel & Directions",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको यात्रा करना पसंद है?",
+          "english": "Absolutely! Traveling makes me feel alive."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप आखिरी बार कहाँ गए थे?",
+          "english": "I went to Jaipur last month."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप विदेश गए हैं?",
+          "english": "Yes, I’ve been to Thailand and Singapore."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका पसंदीदा घूमने का स्थान कौन सा है?",
+          "english": "I love hill stations—they’re peaceful."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको हवाई यात्रा पसंद है?",
+          "english": "Yes, but take-offs still make me nervous."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप ट्रेन या बस से यात्रा करते हैं?",
+          "english": "Mostly by train; it’s more comfortable."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप अगली यात्रा कहाँ करने की सोच रहे हैं?",
+          "english": "I’m planning to visit Kerala next."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको लंबी ड्राइव पसंद है?",
+          "english": "Yes, especially with good music!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप अकेले यात्रा करते हैं?",
+          "english": "Sometimes, but I prefer going with friends."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको रास्ता पता है?",
+          "english": "Yes, it’s just a few blocks from here."
+        }
+      ]
+    },
+    {
+      "name": "Family & Friends",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आपके परिवार में कौन-कौन हैं?",
+          "english": "I live with my parents and younger sister."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप अपने परिवार से मिलते रहते हैं?",
+          "english": "Yes, we get together almost every weekend."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका सबसे अच्छा दोस्त कौन है?",
+          "english": "My best friend is Rahul—we’ve known each other since school."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप उनसे कितनी बार बात करते हैं?",
+          "english": "We talk almost every day."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपके भाई या बहन हैं?",
+          "english": "Yes, I have one younger brother."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप परिवार के साथ रहते हैं?",
+          "english": "Yes, I do. It’s nice to be around them."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप दोस्तों के साथ बाहर जाते हैं?",
+          "english": "Quite often! We love trying new cafes."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपके दोस्त दूर रहते हैं?",
+          "english": "Some of them, yes. We still stay in touch online."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप परिवार के साथ छुट्टियाँ मनाते हैं?",
+          "english": "Yes, every year we plan a trip together."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप अपने माता-पिता से सलाह लेते हैं?",
+          "english": "Always, their advice really helps."
+        }
+      ]
+    },
+    {
+      "name": "Health & Feelings",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आप आज कैसा महसूस कर रहे हैं?",
+          "english": "I’m feeling much better today."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप नियमित रूप से व्यायाम करते हैं?",
+          "english": "Yes, I go jogging every morning."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको कोई एलर्जी है?",
+          "english": "Just a mild dust allergy."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपने डॉक्टर को दिखाया?",
+          "english": "Yes, I had a check-up last week."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप तनाव में हैं?",
+          "english": "A little, but I’m managing fine."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप कैसे आराम करते हैं?",
+          "english": "I usually meditate or listen to calm music."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप स्वस्थ खाना खाते हैं?",
+          "english": "I try to, though I cheat sometimes."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप पर्याप्त नींद लेते हैं?",
+          "english": "Mostly yes, around seven hours."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप खुश हैं?",
+          "english": "Yes, I’m content with how things are going."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप जल्दी थक जाते हैं?",
+          "english": "Only after a long day at work."
+        }
+      ]
+    },
+    {
+      "name": "Shopping & Money",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको खरीदारी करना पसंद है?",
+          "english": "Yes, especially during sales!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप आमतौर पर कहाँ से खरीदारी करते हैं?",
+          "english": "Mostly online, it’s convenient."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपने हाल में कुछ खरीदा?",
+          "english": "Yes, a new pair of shoes last week."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप डिस्काउंट देखते हैं?",
+          "english": "Always! Who doesn’t love a good deal?"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप नकद में भुगतान करते हैं?",
+          "english": "No, I mostly use digital payment apps."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको मोलभाव करना आता है?",
+          "english": "A little, but I’m not very good at it!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप महंगे कपड़े खरीदते हैं?",
+          "english": "Not really, I prefer affordable fashion."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको उपहार खरीदना पसंद है?",
+          "english": "Yes, I enjoy picking thoughtful gifts."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपने आखिरी बार क्या खरीदा?",
+          "english": "A nice leather wallet for myself."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप क्रेडिट कार्ड इस्तेमाल करते हैं?",
+          "english": "Yes, but I always pay the bill on time."
+        }
+      ]
+    },
+    {
+      "name": "Work & Study",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आप कहाँ काम करते हैं?",
+          "english": "I work at a software company."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपको अपनी नौकरी कैसी लगती है?",
+          "english": "I really enjoy it, though it can be stressful at times."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप घर से काम करते हैं?",
+          "english": "Yes, a few days a week."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आपका बॉस कैसा है?",
+          "english": "Quite supportive and understanding."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप पढ़ाई कर रहे हैं?",
+          "english": "Yes, I’m taking a part-time management course."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "आप किस विषय में रुचि रखते हैं?",
+          "english": "I’m really interested in digital marketing."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको ऑफिस में दोस्त हैं?",
+          "english": "Yes, I’ve made some great colleagues."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपका काम मुश्किल है?",
+          "english": "It can be, but I love the challenge."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको मीटिंग्स पसंद हैं?",
+          "english": "Only when they’re short and productive!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप समय पर काम खत्म करते हैं?",
+          "english": "Mostly yes, I try to manage my time well."
+        }
+      ]
+    },
+    {
+      "name": "Weather & Environment",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "आज मौसम कैसा है?",
+          "english": "It’s sunny and pleasant today."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको बारिश पसंद है?",
+          "english": "Yes, especially when I can stay indoors!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या यहाँ बहुत ठंड है?",
+          "english": "Yes, nights are getting quite chilly."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको गर्मी पसंद है?",
+          "english": "Not really, I prefer cooler weather."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या हवा तेज़ चल रही है?",
+          "english": "Yes, it’s pretty windy outside."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या कल बारिश होगी?",
+          "english": "Maybe, the sky looks cloudy."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको बर्फबारी पसंद है?",
+          "english": "I love snow, it’s so magical!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आज बाहर जाना सुरक्षित है?",
+          "english": "Yes, the weather seems fine."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको सर्दियों में चलना पसंद है?",
+          "english": "Yes, it feels refreshing in the cold air."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको गर्म चाय पसंद है?",
+          "english": "Of course! Nothing beats a hot cup in winter."
+        }
+      ]
+    },
+    {
+      "name": "Social & Polite Conversation",
+      "phrases": [
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप मेरी मदद कर सकते हैं?",
+          "english": "Sure, tell me what you need."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या मैं यहाँ बैठ सकता हूँ?",
+          "english": "Of course, please have a seat."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको पार्टी पसंद आई?",
+          "english": "Yes, it was so much fun!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप व्यस्त हैं?",
+          "english": "A bit, but I can spare a few minutes."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या मैं बाद में कॉल कर सकता हूँ?",
+          "english": "Sure, call me anytime after six."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आपको बुरा लगा?",
+          "english": "No, not at all. I understand completely."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप कॉफी लेना चाहेंगे?",
+          "english": "Yes, that sounds great!"
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या मैं आपकी राय जान सकता हूँ?",
+          "english": "Of course, I think it’s a good idea."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप तस्वीर ले सकते हैं?",
+          "english": "Sure, hand me your phone."
+        },
+        {
+          "type": "qa-hindi",
+          "hindi": "क्या आप हमारे साथ शामिल होना चाहेंगे?",
+          "english": "I’d love to! Thanks for inviting me."
+        }
+      ]
+    }
+  ]
+}
