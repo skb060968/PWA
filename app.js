@@ -241,9 +241,9 @@ function celebrate() {
    CONFETTI ANIMATION
    ========================= */
 function launchConfetti() {
-  const duration = 2000;
+  const duration = 5000;
   const animationEnd = Date.now() + duration;
-  const defaults = { spread: 360, ticks: 60, gravity: 0.8, decay: 0.9, startVelocity: 25 };
+  const defaults = { spread: 720, startVelocity: 40 };
 
   const randomInRange = (min, max) => Math.random() * (max - min) + min;
 
@@ -320,3 +320,4 @@ async function speak(text, lang) {
     }
   }, 150);
 }
+
