@@ -1,0 +1,8 @@
+{
+  "phrases": [
+    { "type": "translation", "hindi": "आप कैसे हैं?", "english": "How are you?" },
+    { "type": "translation", "hindi": "मुझे माफ़ कीजिए।", "english": "Excuse me." },
+    { "type": "translation", "hindi": "धन्यवाद!", "english": "Thank you!" },
+    { "type": "translation", "hindi": "क्या आप मुझे अपना नाम बता सकते हैं?", "english": "Can you tell me your name?" }
+	  ]
+}
