@@ -1,0 +1,554 @@
+{
+  "categories": [
+    {
+      "name": "Greetings & Introductions",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "How are you doing today?",
+          "answer": "I’m doing great, thank you! How about you?"
+        },
+        {
+          "type": "qa-english",
+          "english": "What brings you here?",
+          "answer": "I came to meet a few old friends."
+        },
+        {
+          "type": "qa-english",
+          "english": "Have we met before?",
+          "answer": "I don’t think so, but it’s nice to meet you!"
+        },
+        {
+          "type": "qa-english",
+          "english": "How long have you lived here?",
+          "answer": "It’s been about three years now."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like meeting new people?",
+          "answer": "Yes, I enjoy getting to know different perspectives."
+        },
+        {
+          "type": "qa-english",
+          "english": "Where are you originally from?",
+          "answer": "I’m originally from Mumbai."
+        },
+        {
+          "type": "qa-english",
+          "english": "How’s your day going so far?",
+          "answer": "Pretty good, just a bit busy with work."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you usually do on weekends?",
+          "answer": "I usually relax or spend time with my family."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy social gatherings?",
+          "answer": "Sometimes, especially when they’re with close friends."
+        },
+        {
+          "type": "qa-english",
+          "english": "Nice to meet you!",
+          "answer": "Nice to meet you too!"
+        }
+      ]
+    },
+    {
+      "name": "Daily Routine",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What time do you wake up?",
+          "answer": "I usually wake up around 6:30 AM."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you exercise in the morning?",
+          "answer": "Yes, I go for a short run or do some yoga."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you usually start your day?",
+          "answer": "I start with a cup of coffee and check my emails."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s your favorite part of the day?",
+          "answer": "Evenings, when I can finally unwind."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you plan your day ahead?",
+          "answer": "Most days, yes. It helps me stay organized."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you manage your time?",
+          "answer": "I use a planner and set reminders for important tasks."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you do before going to bed?",
+          "answer": "I usually read or listen to some music."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like working from home?",
+          "answer": "Yes, it gives me flexibility and comfort."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you spend your evenings?",
+          "answer": "I watch something or go for a walk after dinner."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you get enough sleep?",
+          "answer": "I try to, but sometimes work keeps me up late."
+        }
+      ]
+    },
+    {
+      "name": "Family & Friends",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "How big is your family?",
+          "answer": "We’re a family of five, including my parents and siblings."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you spend much time with your family?",
+          "answer": "Yes, we try to have dinner together every night."
+        },
+        {
+          "type": "qa-english",
+          "english": "Who are you closest to in your family?",
+          "answer": "I’m very close to my mother."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you have any childhood friends?",
+          "answer": "Yes, and we still keep in touch regularly."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you and your friends usually do together?",
+          "answer": "We hang out, play games, or just talk about life."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy family gatherings?",
+          "answer": "Definitely, they’re always full of laughter and food."
+        },
+        {
+          "type": "qa-english",
+          "english": "Who’s the funniest person you know?",
+          "answer": "My cousin, hands down!"
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you visit your grandparents often?",
+          "answer": "I try to visit them at least once every few months."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like making new friends?",
+          "answer": "Yes, I find it exciting to meet people from different backgrounds."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you value most in a friend?",
+          "answer": "Honesty and a good sense of humor."
+        }
+      ]
+    },
+    {
+      "name": "Work & Study",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What do you do for a living?",
+          "answer": "I work as a project coordinator."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy your job?",
+          "answer": "Yes, it’s challenging but rewarding."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s the best part about your work?",
+          "answer": "I love collaborating with creative people."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer working in a team or alone?",
+          "answer": "I prefer a mix of both, depending on the task."
+        },
+        {
+          "type": "qa-english",
+          "english": "Have you ever worked from a different country?",
+          "answer": "Not yet, but I’d love to try that one day."
+        },
+        {
+          "type": "qa-english",
+          "english": "What motivates you to work hard?",
+          "answer": "Seeing the results of my effort keeps me going."
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you currently studying anything?",
+          "answer": "Yes, I’m taking an online course in data analysis."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like learning new skills?",
+          "answer": "Absolutely, I believe learning never stops."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you handle stress at work?",
+          "answer": "I take short breaks and practice deep breathing."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s your dream job?",
+          "answer": "Something that combines creativity and travel."
+        }
+      ]
+    },
+    {
+      "name": "Travel & Directions",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "Do you like traveling?",
+          "answer": "Yes, I love exploring new cultures and places."
+        },
+        {
+          "type": "qa-english",
+          "english": "Which city would you love to visit next?",
+          "answer": "I’d love to visit Tokyo someday."
+        },
+        {
+          "type": "qa-english",
+          "english": "How often do you travel?",
+          "answer": "At least twice a year if possible."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer the beach or the mountains?",
+          "answer": "The mountains, for the peace and scenery."
+        },
+        {
+          "type": "qa-english",
+          "english": "Have you ever traveled abroad?",
+          "answer": "Yes, once to Singapore."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy road trips?",
+          "answer": "Absolutely! Long drives with music are the best."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you usually plan your trips?",
+          "answer": "I research online and book everything in advance."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer traveling alone or with others?",
+          "answer": "With friends, it’s always more fun."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s your favorite travel memory?",
+          "answer": "Watching the sunset from a hilltop in Goa."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you use maps or navigation apps?",
+          "answer": "Yes, Google Maps is my go-to tool."
+        }
+      ]
+    },
+    {
+      "name": "Food & Dining",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What’s your favorite cuisine?",
+          "answer": "I really enjoy Italian food, especially pasta."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer home-cooked meals or eating out?",
+          "answer": "Home-cooked meals any day!"
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you a vegetarian?",
+          "answer": "No, but I eat a lot of vegetarian dishes."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s your comfort food?",
+          "answer": "Hot soup and bread on a rainy day."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like trying new restaurants?",
+          "answer": "Yes, I love discovering hidden gems."
+        },
+        {
+          "type": "qa-english",
+          "english": "What do you usually have for breakfast?",
+          "answer": "Toast, eggs, and coffee."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy cooking?",
+          "answer": "Yes, it’s relaxing and creative for me."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s a dish you’ve recently learned to make?",
+          "answer": "I learned how to make lasagna last week."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer sweet or spicy food?",
+          "answer": "Spicy, for sure!"
+        },
+        {
+          "type": "qa-english",
+          "english": "How often do you eat out?",
+          "answer": "Maybe once or twice a week."
+        }
+      ]
+    },
+    {
+      "name": "Health & Fitness",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "Do you exercise regularly?",
+          "answer": "Yes, I try to work out at least four times a week."
+        },
+        {
+          "type": "qa-english",
+          "english": "What kind of exercise do you enjoy?",
+          "answer": "I love cycling and swimming."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you stay motivated to stay fit?",
+          "answer": "By setting small, realistic goals."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you meditate?",
+          "answer": "Yes, a few minutes every morning."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you deal with stress?",
+          "answer": "I take deep breaths or go for a short walk."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you follow a special diet?",
+          "answer": "Not really, I just try to eat balanced meals."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you get regular health check-ups?",
+          "answer": "Yes, once a year at least."
+        },
+        {
+          "type": "qa-english",
+          "english": "How many hours of sleep do you get?",
+          "answer": "Around seven hours every night."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you take vitamins?",
+          "answer": "Yes, vitamin D and B12 daily."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you relax after a long day?",
+          "answer": "I like taking a warm shower and reading a bit."
+        }
+      ]
+    },
+    {
+      "name": "Shopping & Money",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy shopping?",
+          "answer": "Yes, but only when I really need something."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer online or offline shopping?",
+          "answer": "Online, it’s so convenient."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s the last thing you bought?",
+          "answer": "A pair of running shoes."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like window shopping?",
+          "answer": "Sometimes, just for fun."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you make a shopping list?",
+          "answer": "Always! It helps me stay within budget."
+        },
+        {
+          "type": "qa-english",
+          "english": "Are you good at saving money?",
+          "answer": "I try to save a little every month."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer paying by cash or card?",
+          "answer": "Mostly card, it’s easier to track expenses."
+        },
+        {
+          "type": "qa-english",
+          "english": "Have you ever bought something you regretted?",
+          "answer": "Yes, an expensive gadget I barely used."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you compare prices before buying?",
+          "answer": "Always, especially for electronics."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like giving gifts?",
+          "answer": "Yes, it makes me happy to surprise others."
+        }
+      ]
+    },
+    {
+      "name": "Feelings & Opinions",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "How do you express happiness?",
+          "answer": "Usually with a big smile and laughter."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you get angry easily?",
+          "answer": "Not really, I try to stay calm."
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you cheer yourself up?",
+          "answer": "Listening to music or watching a good movie helps."
+        },
+        {
+          "type": "qa-english",
+          "english": "What makes you feel grateful?",
+          "answer": "My health and supportive family."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like sharing your feelings?",
+          "answer": "Only with people I trust."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s something that always makes you laugh?",
+          "answer": "Funny animal videos!"
+        },
+        {
+          "type": "qa-english",
+          "english": "How do you deal with disappointment?",
+          "answer": "I reflect, learn, and move on."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you believe in positive thinking?",
+          "answer": "Yes, it changes how I handle challenges."
+        },
+        {
+          "type": "qa-english",
+          "english": "What scares you the most?",
+          "answer": "Losing the people I love."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy deep conversations?",
+          "answer": "Absolutely, they help me connect better."
+        }
+      ]
+    },
+    {
+      "name": "Plans & Hobbies",
+      "phrases": [
+        {
+          "type": "qa-english",
+          "english": "What do you do in your free time?",
+          "answer": "I enjoy reading and listening to music."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you have any hobbies?",
+          "answer": "Yes, I like painting and gardening."
+        },
+        {
+          "type": "qa-english",
+          "english": "What are your weekend plans?",
+          "answer": "I’m planning to visit some friends."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like planning ahead?",
+          "answer": "Yes, it helps me stay organized and relaxed."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s something new you’d like to learn?",
+          "answer": "Playing the guitar."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you enjoy watching movies?",
+          "answer": "Yes, especially comedies and thrillers."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you prefer staying in or going out?",
+          "answer": "Depends on my mood, but I love cozy nights in."
+        },
+        {
+          "type": "qa-english",
+          "english": "What’s your dream vacation?",
+          "answer": "A quiet cabin in the mountains."
+        },
+        {
+          "type": "qa-english",
+          "english": "Do you like making to-do lists?",
+          "answer": "Yes, they help me stay productive."
+        },
+        {
+          "type": "qa-english",
+          "english": "What are your goals for this year?",
+          "answer": "To travel more and improve my fitness."
+        }
+      ]
+    }
+  ]
+}
