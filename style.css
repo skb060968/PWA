@@ -303,3 +303,17 @@ body.dark #progress-text {
   input[type="text"], button { font-size: 1em; width: 90%; }
   #welcome-screen, #phrase-screen, #celebration { padding: 1em; }
 }
+/* ✨ Celebration Subtext Style */
+.celebration-sub {
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--text-secondary, #888); /* gracefully adapts to theme */
+  margin-top: -0.3em;
+  margin-bottom: 1em;
+  opacity: 0.9;
+  transition: color 0.3s ease;
+}
+
+body.dark .celebration-sub {
+  color: #bbb; /* slightly brighter in dark mode */
+}
